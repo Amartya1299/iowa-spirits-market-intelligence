@@ -136,7 +136,7 @@ python evaluate_model.py
 ## 📁 Dataset
 
 **Iowa Liquor Sales** — Public dataset from the Iowa Department of Commerce  
-Source: [Iowa Data Portal](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
+Source: [Iowa Data Portal](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data_preview)
 
 ---
 
@@ -144,4 +144,4 @@ Source: [Iowa Data Portal](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-
 
 **Amartya Mishra**  
 MS Computer Science — Purdue University Northwest  
-[LinkedIn](https://www.linkedin.com/in/amartya-mishra) | [GitHub](https://github.com/Amartya1299)
+[LinkedIn](https://www.linkedin.com/in/amartya-mishra-b7a447230/) | [GitHub](https://github.com/Amartya1299)
