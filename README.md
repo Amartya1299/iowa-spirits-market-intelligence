@@ -25,10 +25,10 @@ PySpark ETL (Data Cleaning & Transformation)
 Spark SQL (8 Analytical Queries)
     │
     ▼
-MLlib K-Means Clustering (k=5 Segments)
+MLlib K-Means Clustering
     │
     ▼
-Parquet Output → Power BI Dashboard (5 Pages)
+Parquet Output → Power BI Dashboard (4 Pages)
 ```
 
 ---
