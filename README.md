@@ -28,7 +28,7 @@ Spark SQL (8 Analytical Queries)
 MLlib K-Means Clustering
     │
     ▼
-Parquet Output → Power BI Dashboard (5 Pages)
+Parquet Output → Power BI Dashboard 
 ```
 
 ---
@@ -58,7 +58,7 @@ iowa-spirits-market-intelligence/
 ├── kmeans_final.py              # K-Means clustering pipeline (k=2)
 ├── kmeans_categories.py         # Cluster label assignment and interpretation
 ├── evaluate_model.py            # Model evaluation and metrics
-├── BI Visuals.pdf               # Power BI dashboard export (5 pages)
+├── BI Visuals.pdf               # Power BI dashboard export
 └── README.md
 ```
 
