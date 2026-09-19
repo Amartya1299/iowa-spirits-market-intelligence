@@ -28,7 +28,7 @@ Spark SQL (8 Analytical Queries)
 MLlib K-Means Clustering
     │
     ▼
-Parquet Output → Power BI Dashboard (4 Pages)
+Parquet Output → Power BI Dashboard (5 Pages)
 ```
 
 ---
@@ -55,7 +55,7 @@ iowa-spirits-market-intelligence/
 │
 ├── final_parquet_convert.py     # Converts processed data to Parquet format
 ├── spark_sql.py                 # 8 Spark SQL analytical queries
-├── kmeans_final.py              # K-Means clustering pipeline (k=5)
+├── kmeans_final.py              # K-Means clustering pipeline (k=2)
 ├── kmeans_categories.py         # Cluster label assignment and interpretation
 ├── evaluate_model.py            # Model evaluation and metrics
 ├── BI Visuals.pdf               # Power BI dashboard export (5 pages)
@@ -73,16 +73,14 @@ iowa-spirits-market-intelligence/
 - Vendor performance analysis
 - Store-level sales rankings
 
-### K-Means Clustering (k=5)
+### K-Means Clustering (k=2)
 Consumer segments identified based on purchase frequency, volume, and product category preferences:
 
 | Cluster | Profile |
 |---|---|
-| 0 | High-volume bulk buyers |
-| 1 | Premium spirit purchasers |
+| 0 | Premium buyers |
+| 1 | Mid Range purchasers |
 | 2 | Budget-conscious buyers |
-| 3 | Seasonal/occasional buyers |
-| 4 | Diverse category explorers |
 
 ---
 
