@@ -29,8 +29,8 @@ scaler = StandardScaler(inputCol="unscaled_features", outputCol="features", with
 scaler_model = scaler.fit(assembled_data)
 scaled_data = scaler_model.transform(assembled_data)
 
-# 5. Run K-Means (k=5)
-kmeans = KMeans(featuresCol="features", predictionCol="prediction", k=5, seed=42)
+# 5. Run K-Means (k=2)
+kmeans = KMeans(featuresCol="features", predictionCol="prediction", k=2, seed=42)
 model = kmeans.fit(scaled_data)
 predictions = model.transform(scaled_data)
 
